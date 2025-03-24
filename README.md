@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1483f0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+The+Cool+Cat;I'm+Currently+Learning+Javascript+and+ReactJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1483f0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+The+Cool+Cat;I'm+Currently+Learning+Backend+Development)](https://git.io/typing-svg)
 
 <h3 align="center">"Practice till you get it."</h3>
 <h4 align="center">The Coding Cat</h4>
