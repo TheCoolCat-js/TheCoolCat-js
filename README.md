@@ -29,7 +29,7 @@
 
 ## Contact me:
 <div>
-    <img height="12px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=discord"/> @smecherdiplomat
+    <img height="24px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=discord"/> @smecherdiplomat
 </div>
 
 
