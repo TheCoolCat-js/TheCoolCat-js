@@ -12,7 +12,7 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discordapp.com/users/758686567467581441" target="blank"><i align="center" class="devicon-discord-original" alt="Lua" height="40" width="60" ></i>
+<a href="https://discordapp.com/users/758686567467581441" target="blank"><i align="center" class="devicon-discordjs-original" alt="Lua" height="40" width="60" ></i>
 </a>
 </a>
 </p>
