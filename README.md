@@ -39,11 +39,11 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,nodejs,django,docker"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,nodejs,django,docker,java,flask"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css,js,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
