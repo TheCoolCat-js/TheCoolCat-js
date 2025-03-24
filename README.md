@@ -7,7 +7,7 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 
   - 🔭 I’m currently working on diffrent minimalist projects.
   - 🌱 I’m currently learning; Docker, Firebase
-  - 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, NextJS, Python, Lua, Django, DiscordJS, **
+  - 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, NextJS, ReactJS, Python, Lua, Django, DiscordJS**
   - ⚡ Fun fact: I like cats🐈.
 
 <h3 align="left">Connect with me:</h3>
