@@ -25,11 +25,6 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCoolCat-js&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheCoolCat-js"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/TheCoolCat-js">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCoolCat-js&&theme=tokyonight" alt="TheCoolCat-js" />
-  </a>
-</p>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
