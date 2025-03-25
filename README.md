@@ -31,11 +31,11 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,nodejs,django,docker,java,flask"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,django,docker, flask"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css,js,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -47,11 +47,11 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
     </tr>
 </table>
 
