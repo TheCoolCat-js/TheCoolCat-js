@@ -31,7 +31,8 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,django,docker, flask"/></td>
+        <td>SOON!</td>
+<!--         <td><img height="40" src="https://skillicons.dev/icons?i=python,django,docker, flask"/></td> -->
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
