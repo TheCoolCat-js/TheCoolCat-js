@@ -30,11 +30,6 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td>SOON!</td>
-<!--         <td><img height="40" src="https://skillicons.dev/icons?i=python,django,docker, flask"/></td> -->
-    </tr>
-    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Techstack:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=cpp,c,python,java,lua"/></td>
     </tr>
@@ -48,7 +43,7 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode, clion, xcode"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode, xcode, cursor"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
