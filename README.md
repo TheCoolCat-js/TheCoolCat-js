@@ -5,9 +5,9 @@
 With over 2 years of experience as a Freelance Developer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. 🚀
 
 
-  - 🔭 I’m currently working on diffrent minimalist projects, mostly pasionate about Python.
-  - 🌱 I’m currently learning; Docker, Firebase
-  - 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, NextJS, ReactJS, Python, Lua, Django, DiscordJS**
+  - 🔭 I’m currently working on diffrent minimalist projects, mostly pasionate about C++.
+  - 🌱 I’m currently learning; ~
+  - 💬 Ask me about **C, C++, Java, Python, Lua**
   - ⚡ Fun fact: I like cats🐈.
 
 </a>
@@ -35,8 +35,8 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 <!--         <td><img height="40" src="https://skillicons.dev/icons?i=python,django,docker, flask"/></td> -->
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css,js,figma"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Techstack:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cpp,c,python,java,lua"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -48,11 +48,11 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode, clion, xcode"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows, ubuntu"/></td>
     </tr>
 </table>
 
