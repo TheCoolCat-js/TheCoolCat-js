@@ -17,7 +17,7 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 ------
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheCoolCat-js&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheCoolCat-js&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/TheCoolCat-js">
@@ -31,7 +31,7 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Techstack:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,java,lua"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?ihtml,css,js,reactjs,cpp,python,lua,discordjs,nodejs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -43,11 +43,11 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,macos"/></td>
     </tr>
 </table>
 
