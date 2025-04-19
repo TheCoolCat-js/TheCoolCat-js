@@ -7,7 +7,7 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 
   - 🔭 I’m currently working on diffrent minimalist projects, mostly pasionate about C++.
   - 🌱 I’m currently learning; ~
-  - 💬 Ask me about **HTML, CSS, JS, ReactJS, C++, Python, Lua, Java**
+  - 💬 Ask me about **HTML, CSS, JS, ReactJS, C++, Python, Lua**
   - ⚡ Fun fact: I like cats🐈.
 
 </a>
@@ -31,7 +31,7 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Techstack:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,cpp,python,java,lua"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,python,lua"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
