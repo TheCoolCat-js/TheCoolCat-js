@@ -31,7 +31,7 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Techstack:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,lua,python,django"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,lua,python,django,express"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
