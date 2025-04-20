@@ -21,7 +21,7 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 
 <div align="center">
   <a href="https://github.com/TheCoolCat-js">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheCoolCat-js&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheCoolCat-js"/>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheCoolCat-js&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheCoolCat-js"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCoolCat-js&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheCoolCat-js"/>
   </a>
 </div>
