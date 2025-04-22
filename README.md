@@ -7,7 +7,7 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 
   - 🔭 I’m currently working on diffrent minimalist projects, mostly pasionate about Javascript.
   - 🌱 I’m currently learning; ~
-  - 💬 Ask me about **Javascript, ReactJS, Python, Lua**
+  - 💬 Ask me about **Javascript, Python, Lua**
   - ⚡ Fun fact: I like cats🐈.
 
 </a>
