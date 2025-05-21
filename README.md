@@ -31,11 +31,11 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Techstack:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,lua,python,express,nodejs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,lua,python,express,nodejs,cpp,java"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -43,11 +43,11 @@ With over 2 years of experience as a Freelance Developer, I'm on a mission to cr
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,clion,pycharm"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
 </table>
 
