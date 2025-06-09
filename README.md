@@ -27,6 +27,10 @@ Romanian, 15 Years old, almost FullStack Developer and I love cats🐈.
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Techstack:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=js,lua,python,express,nodejs,cpp,java"/></td>
     </tr>
+        <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,clion,pycharm,vs,postman,docker"/></td>
+    </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
@@ -34,10 +38,6 @@ Romanian, 15 Years old, almost FullStack Developer and I love cats🐈.
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,clion,pycharm"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
