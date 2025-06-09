@@ -29,7 +29,7 @@ Romanian, 15 Years old, almost FullStack Developer and I love cats🐈.
     </tr>
         <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,clion,pycharm,vs,postman,docker"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,clion,pycharm,visualstudio,postman,docker"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
