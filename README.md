@@ -17,6 +17,7 @@ Romanian, 15 Years old, almost FullStack Developer and I love cats🐈.
   <a href="https://github.com/TheCoolCat-js">
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheCoolCat-js&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheCoolCat-js"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCoolCat-js&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheCoolCat-js"/>
+    <img height="160em" src="https://camo.githubusercontent.com/7437b9b867192e30f4bf10c682538a9181e3bcfec7ecbddef43fffc50bb80e65/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f6c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d7368616465732d6f662d707572706c6526686964655f626f726465723d66616c736526757365726e616d653d6f6b7370793437"/>
   </a>
 </div>
 
