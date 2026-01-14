@@ -2,23 +2,12 @@
 
 ### Hello 🌎, I'm Luca
 
-Romanian, 15 Years old, almost FullStack Developer and I love cats🐈.
+Romanian, 16 Years old, Specialized in Backend development and Cyber Security🐈.
 
 </a>
 </a>
 </p>
 
-------
-<h3 align="left">Activity:</h3>
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=overallsystemd&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <a href="https://github.com/overallsystems">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=overallsystems&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheCoolCat-js"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=overallsystems&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TheCoolCat-js"/>
-  </a>
-</div>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
